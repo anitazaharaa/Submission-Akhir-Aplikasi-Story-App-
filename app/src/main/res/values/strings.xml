@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">storyapp1</string>
+    <string name="foto">foto</string>
+    <string name="upload_st">upload story</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="password">password</string>
+    <string name="title_login_page">Bagikan pengalaman mu selama di dicoding!!</string>
+    <string name="login">Masuk</string>
+    <string name="message_login_page">\"Lengkapi data terlebih dahulu\"</string>
+    <string name="title_signup_page">Lengkapi data dahulu</string>
+    <string name="name">Nama</string>
+    <string name="email">email</string>
+    <string name="signup">Daftar</string>
+    <string name="Camera">Camera</string>
+    <string name="Upload">Upload</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Desc">Description</string>
+    <string name="title_welcome_page">Selamat data di dicoding</string>
+    <string name="message_welcome_page">Bangun karirmu, belajar bersama dicoding !</string>
+    <string name="add">Tambah</string>
+    <string name="add_location">Tambah Lokasi</string>
+    <string name="logout">Keluar</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
